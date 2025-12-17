@@ -11,19 +11,11 @@ manufacturer: samsung
 - **Android 11 + 12**: Battery optimization, Auto-optimize, Adaptive battery, Adaptive power-saving, Background restrictions, lists of Sleeping apps, Unused apps, Deep sleeping apps, Never sleeping apps
 - **Android Pie and higher**: Device care, Background restrictions, lists of Sleeping apps, Unused apps, Auto-disable unused apps
 - **Android Oreo and Nougat**: App power monitor, Background restrictions
-- **Android Marshmallow or below**: Smart manager
-
-
-1. [ Android 14 ](#android-14) 
-2. [ Android 13 ](#android-13) 
-2. [ Android 11 ](#android-11) <br>
-3. [ Android Pie and 10 ](#android-pie-and-10) <br>
-4. [ Android Oreo and Nougat ](#android-oreo-and-nougat) <br>
-5. [ Android Marshmallow and older ](#android-marshmallow-and-older ) <br>
+- **Android Marshmallow or below**: Smart 
 
 
 
-## Android 14
+
 
 Not only does one need to toggle the system setting - but you can install additional Samsung "apps", and that will "most likely" let other apps run in the background.
 
